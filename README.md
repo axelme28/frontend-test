@@ -26,7 +26,7 @@ https://www.meteomatics.com/en/weather-api/?gclid=CjwKCAjw4ayUBhA4EiwATWyBruF10o
 https://developer.twitter.com/en/docs/twitter-api
 
 Puede utilizar cualquier api que usted quiera.
-El diseño estandar se muestra en la imagen layout
+El diseño estandar se muestra en la imagen propuesta-diseño.png
 
 ---
 
